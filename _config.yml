@@ -14,7 +14,7 @@ baseurl: ""
 username: Garzola
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Welcome to my blog
+typing_text: Welcome
 # email: Your E-Mail address for the email button.
 email: g4rzola@gmail.com
 # For every social button you want to display, set your username or userid
